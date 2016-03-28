@@ -52,6 +52,32 @@ public class Main {
         return suits.size() == 1;
     }
 
+    static boolean isStraightFlush(HashSet<Card> hand){
+
+
+    }
+
+    static boolean isStraight(HashSet<Card> hand){
+
+
+    }
+
+    static boolean isFourKind(HashSet<Card> hand){
+
+
+    }
+
+    static boolean isThreeKind(HashSet<Card> hand){
+
+
+    }
+
+    static boolean twoPair(HashSet<Card> hand){
+
+
+    }
+
+
     public static void main(String[] args) {
         long beginTime = System.currentTimeMillis();
 
