@@ -1,6 +1,5 @@
 package com.theironyard;
 
-import sun.nio.ch.sctp.SctpMultiChannelImpl;
 
 import java.util.HashSet;
 import java.util.stream.Collectors;
@@ -84,7 +83,7 @@ public class Main {
         return ranks.size() == 2;
 
     }
-
+//
 //    static boolean twoPair(HashSet<Card> hand){
 //
 //
